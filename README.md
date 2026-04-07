@@ -88,11 +88,7 @@ To become a **professional QA Engineer** specializing in:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oynndri&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oynndri&layout=compact&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oynndri\&show_icons=true\&theme=tokyonight)
 
 ---
 
