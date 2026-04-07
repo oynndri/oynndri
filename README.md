@@ -1,6 +1,6 @@
 # Hi, I'm Oynndrila Singh Purkayestha 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;Future+Android+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner)](https://git.io/typing-svg)
 
 ---
 
