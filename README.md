@@ -1,4 +1,6 @@
-<h1 align="center"> HELLO! 🧪</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Oynndrila+Singh+Purkayestha;Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://github.com/oynndri">
