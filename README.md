@@ -1,18 +1,6 @@
-<!-- Line 1: Greeting -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&size=28&center=true&lines=Hi+there+👋" alt="Typing SVG"/>
-  </a>
-</p>
-
-<!-- Line 2: Full Name -->
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=9B59B6&size=28&center=true&lines=I'm+Oynndrila+Singh" alt="Typing SVG"/>
-</p>
-
-<!-- Line 3: Titles -->
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&lines=Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&size=28&center=true&lines=Hi+there+👋\nI'm+Oynndrila+Singh+Purkayestha\nAspiring+SQA+Engineer,+Java+Developer,+QA+Automation+Learner,+API+Automation+Expert" alt="Typing SVG"/>
   </a>
 </p>
 
