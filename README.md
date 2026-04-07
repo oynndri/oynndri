@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Oynndrila+Singh+Purkayestha;Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Oynndrila+Singh+Purkayestha;Aspiring+SQA+Engineer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
----
+
 
 ## 👩‍💻 About Me
 
@@ -112,7 +112,7 @@ To become a **professional QA Engineer** specializing in:
 
 <p align="center">
   <i>"Software testing is like being the detective in a crime movie where you are also the murderer."  
-— Anonymous</i>
+</i>
 </p>
 
 
