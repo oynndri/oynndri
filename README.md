@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&lines=Hi+there,+I'm+Oynndrila+Singh+Purkayestha+👋;Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&lines=Hi+there!,+I'm+Oynndrila+Singh+Purkayestha+👋;Aspiring+SQA+Engineer;Java+Developer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG"/>
   </a>
 </p>
 
