@@ -102,75 +102,15 @@ To become a **professional QA Engineer** specializing in:
 
 ---
 
+### 🧩 **Dev QA Humor**
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=blue" alt="QA Joke" width="60%" />
+</div>
 
-## 💬 Dev Joke
+<p align="center">
+  <i>"Software testing is like being the detective in a crime movie where you are also the murderer."  
+— Anonymous</i>
+</p>
 
-```text
-Q: What do QA engineers do on weekends?
-A: They test their patience 😄
-* Manual Testing
-* API Testing (Postman)
-* Performance Testing (JMeter)
-* Test Case Design
-* Bug Reporting
 
-### ⚙️ Automation
-
-* Selenium (Basic)
-* Learning Playwright
-
-### 🧰 Tools
-
-* Jira
-* TestRail
-
----
-
-## 📜 Certifications
-
-* SQA Career Launchpad — Ostad
-
----
-
-## 📂 Featured Projects
-
-### 💻 Development
-
-* 🔹 **Library Management System** – Console-based application built using C
-* 🔹 **Dynamic Study Planner** – Java-based student productivity system
-
-### 🧪 QA & Testing
-
-* 🔹 **Evershop API Manual Testing** – Postman & Excel-based API testing documentation
-* 🔹 **Manual API Testing Project** – Real-world test case design & QA practices
-* 🔹 **Restful Booker API Automation** – Automated API testing with CRUD operations
-* 🔹 **Swagger Petstore API Automation** – Postman-based API automation & validation
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oynndri\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=oynndri\&theme=tokyonight)
-
----
-
-## 💻 Coding Vibes
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
----
-
-## 📫 Connect With Me
-
-* 🌐 GitHub: https://github.com/oynndri
-
----
-
-⭐️ From Oynndrila
 
