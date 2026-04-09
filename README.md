@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Oynndrila+Singh+Purkayestha;Aspiring+SQA+Engineer;QA+Automation+Learner;API+Automation+Expert" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/oynndri">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+    <img src="https://komarev.com/ghpvc/?username=oynndri&label=Profile%20Views&color=0e75b6&style=flat-square" alt="oynndri" />
   </a>
+</div>
   <a href="https://linkedin.com/in/oynndrila-singh-purkayestha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
