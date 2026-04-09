@@ -7,16 +7,21 @@
     <img src="https://komarev.com/ghpvc/?username=oynndri&label=Profile%20Views&color=0e75b6&style=flat-square" alt="oynndri" />
   </a>
 </div>
+ <div align="center">
+
   <a href="https://linkedin.com/in/oynndrila-singh-purkayestha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-   <a href="https://sites.google.com/diu.edu.bd/oynndrilasinghpurkayestha/">
+
+  <a href="https://sites.google.com/diu.edu.bd/oynndrilasinghpurkayestha/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+
   <a href="mailto:oynndrilapurkayestha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
+
+</div>
 
 
 ## 👩‍💻 About Me
