@@ -27,7 +27,7 @@
 ## 👩‍💻 About Me
 
 🎓 **B.Sc in Software Engineering** (Ongoing)  
-📊 **CGPA:** 3.87  
+📊 **CGPA:** 3.8 
 
 🧪 Passionate about **Software Quality Assurance (SQA)**  
 🚀 Focused on building reliable & bug-free software  
