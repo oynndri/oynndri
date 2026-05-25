@@ -188,7 +188,7 @@ I enjoy transforming manual workflows into efficient automated testing solutions
 
   <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Repositories-2ECC71?style=for-the-badge" />
-      <h2>11</h2>
+      <h2>11+</h2>
     </td>
 
   <td align="center" width="25%">
